@@ -7,7 +7,7 @@ const GameHistory = () => (
     <Card>
       <CardHeader>
         <h2 className="text-2xl font-semibold flex items-center text-gray-800">
-          Game History
+          Game Histori
         </h2>
       </CardHeader>
       <CardContent>
